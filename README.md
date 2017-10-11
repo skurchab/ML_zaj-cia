@@ -7,5 +7,9 @@ Cifar_transform&optymalizatory: testowanie optymalizatorów. Obrazki ulegają ł
 
 Bledne_odpowiedzi: błędne odpowiedzi uzyskane na zbiorach testowych sieci konwulcyjnej i RNN. Błędy w zależności od parametrów początkowych
 
+Dodawanie_RNN: dodawanie liczb w stystemie szesnastkowym. RNN
+
 AR(2): testtowanie parametrów rekurencyjnej sieci na danych pochodzących z modeli AR(2) i AR(3)
+
+
 
