@@ -5,7 +5,7 @@ Own_image_recogn: rozpoznawanie osobno przygotowanego obrazka przez wytrenowaną
 
 Cifar_transform&optymalizatory: testowanie optymalizatorów. Obrazki ulegają łosowej transformacji
 
-Bledne_odpowiedzi: błędne odpowiedzi uzyskane na zbiorach testowych sieci konwulcyjnej i RNN. Błędy w zależności od parametrów początkowych
+Bledne_odpowiedzi: błędne odpowiedzi uzyskane na zbiorach testowych sieci konwulucyjnej i RNN. Błędy w zależności od parametrów początkowych
 
 Dodawanie_RNN: dodawanie liczb w stystemie szesnastkowym. RNN
 
